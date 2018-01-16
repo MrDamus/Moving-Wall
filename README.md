@@ -1,3 +1,3 @@
 Moving Wall
 
-https://github.com/MrDamus/Moving-Wall.git
+https://mrdamus.github.io/Moving-Wall/
